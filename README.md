@@ -14,13 +14,18 @@
    </a>
 
 <p align="center">
-	<img alt="Status Em Desenvolvimento" src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green">
-<!-- 	<img alt="Status Concluído" src="https://img.shields.io/badge/STATUS-CONCLU%C3%8DDO-brightgreen"> -->
+	<!-- <img alt="Status Em Desenvolvimento" src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green"> -->
+ 	<img alt="Status Concluído" src="https://img.shields.io/badge/STATUS-CONCLU%C3%8DDO-brightgreen">
 </p>
 
 ## 💻 Sobre o projeto
 
 Para treinar minhas habilidades em HTML, CSS e JS, selecionei esse template da <a href="https://x.com/abbpandalyn">Yan Liu</a> de tela de criação de conta de plataforma, traduzindo do inglês para o português brasileiro. 
+
+### Conceitos abordados: 
+Estrutura HTML, estilização CSS, FlexBox, importação de fontes, FIGMA, deploy, documentação.
+
+⏲️ Duração: 8h
 
 ---
 
@@ -33,17 +38,16 @@ Tela original:
 ![create-account-original-screen](https://github.com/user-attachments/assets/7104443b-69f9-4efa-bad9-a04e7fdd87d5)
 
 
-<!-- ### Web -->
-
-
+### Web
+Tela do projeto finalizado:<br/>
+<img width="670" alt="image" src="https://github.com/user-attachments/assets/f3b1c3ed-03c9-444b-bf9e-19572b9acb22">
 
 ---
 
 ## 🛣️ Como executar o projeto
 
 ### Acesse
-
-
+<a href="https://tela-de-criacao-de-usuario.netlify.app/">Tela de criação de usuário</a>
 
 #### 🧭 Rodando a aplicação web (Frontend)
 
@@ -56,7 +60,7 @@ $ git clone git@github.com:haaveeni/create-an-account-screen.git
 $ cd create-an-account-screen
 
 # Acesse a pasta pages
-$ cd pages
+$ cd docs
 
 Execute o arquivo index.html
 
@@ -66,9 +70,9 @@ Execute o arquivo index.html
 
 ## 🛠 Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
-<a href = "https://developer.mozilla.org/en-US/docs/Web/HTML"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-<a href = "https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+As seguintes ferramentas foram usadas na construção do projeto:<br/>
+<a href = "https://developer.mozilla.org/en-US/docs/Web/HTML"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a> HTML: estrutura da página<br/>
+<a href = "https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a> CSS: estilização da página<br/>
 <!-- <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a> -->
 
 ---
