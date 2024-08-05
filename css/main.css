@@ -45,6 +45,9 @@ main {
 
 .create-an-account a {
   color: #111111;
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 2.4rem;
 }
 
 .options {
@@ -88,6 +91,17 @@ label {
 .checkbox-container label {
   order: 2;
   margin-left: 0.8rem;
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+
+}
+
+.checkbox-container label a {
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+  color: #111111;
 }
 
 span {
