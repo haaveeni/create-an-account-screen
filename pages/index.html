@@ -12,22 +12,26 @@
   <link rel="stylesheet" href="../css/reset.css">
   <title>Criar conta</title>
 </head>
+
 <body>
+
   <header>
     <div class="container">
-      <button class="log-in-button">Log in</button>
+      <button class="log-in-button">Entrar</button>
     </div>
   </header>
+
   <hr>
   
   <main>
     <div>
-      <img src="../img/logo.svg" alt="Logo geométrico">
+      <img src="../img/logo.svg" alt="Logo geométrico" class="logo">
     </div>
+
     <div class="create-an-account">
       <div class="options">
         <h1>Criar conta</h1>
-        <a href="">Fazer log in</a>
+        <a href="#">Entrar</a>
       </div>
     
       <form action="">
@@ -56,31 +60,35 @@
             e <a href="#">Política de Privacidade</a></label>
           <input type="checkbox" id="checkbox">
         </div>
-    
-        <button>Criar uma conta</button>
-    
-        <button><img src="../css/components/continue-with-google.png" alt="Continue com o Google"></button>
-    
+        <a href="#"><button class="create-account-button">
+          Criar conta
+        </button></a>
+        <img src="../css/components/divider-or.svg" alt="">
+        <a href="#"><button class="continue-with-google-button">
+          <img src="../css/components/google.svg" alt="Logo da Google">Continue com Google
+        </button></a>
+
+        
       </form>
     </div>
-      
-    <hr>
-
+    
   </main>
-
+  
   <footer>
-    <div class="footer-links">
-      <div class="product-links">
+    <hr>
+    <section class="footer-links">
+
+      <div class="menu-links" id="product-links">
         <h2>Produtos</h2>
         <ul>
           <li><a href="#">Preços</a></li>
           <li><a href="#">Soluções</a></li>
-          <li><a href="">Educação</a></li>
-          <li><a href="">Planos para equipes</a></li>
+          <li><a href="#">Educação</a></li>
+          <li><a href="#">Planos para equipes</a></li>
         </ul>
       </div>
 
-      <div class="about-us-links">
+      <div class="menu-links" id="about-us-links">
         <h2>Sobre nós</h2>
         <ul>
           <li><a href="#">Sobre</a></li>
@@ -92,7 +100,7 @@
         </ul>
       </div>
 
-      <div class="help-and-support-links">
+      <div class="menu-links" id="help-and-suport-links">
         <h2>Ajuda e Suporte</h2>
         <ul>
           <li><a href="#">Centro de Ajuda</a></li>
@@ -103,7 +111,7 @@
         </ul>
       </div>
 
-      <div class="community-links">
+      <div class="menu-links" id="community-links">
         <h2>Comunidade</h2>
         <ul>
           <li><a href="#">Agências</a></li>
@@ -111,18 +119,18 @@
           <li><a href="#">Engenheiros</a></li>
         </ul>
       </div>
-    </div>
-
-    <div class="download-buttons">
-      <button></button>
-      <button></button>
-    </div>
+      <div class="download-buttons">
+        <a href="#"><img src="../css/components/apple-store-download-button.svg" alt="Download with Apple Store"></a>
+        <a href="#"><img src="../css/components/android-store-download-button.svg" alt="Download with Android Store"></a>
+      </div>
+    </section>
 
     <hr>
 
-    <div class="footer-bottom">
+    <section class="footer-bottom">
+      
+      <span>copyright 2022</span>
       <div class="footer-bottom-links">
-        <span>copyright 2022</span>
         <ul>
           <li><a href="#">Ajuda</a></li>
           <li><a href="#">Privacidade</a></li>
@@ -132,18 +140,20 @@
 
       <div class="social-media-links">
         <ul>
-          <li><a href=""><img src="" alt=""></a></li>
-          <li><a href=""><img src="" alt=""></a></li>
-          <li><a href=""><img src="" alt=""></a></li>
+          <li><a href="#"><img src="../css/components/facebook.svg" alt=""></a></li>
+          <li><a href="#"><img src="../css/components/x.svg" alt=""></a></li>
+          <li><a href="#"><img src="../css/components/instagram.svg" alt=""></a></li>
         </ul>
       </div>
 
-      <div class="country-selector">
-        <select name="" id="">
-          <option value=""></option>
+      <div class="language-selector">
+        <select name="portugues" id="portugues">
+          <option value="portugues-brasil" selected>Português (Brasil)</option>
+          <option value="english">English</option>
         </select>
       </div>
-    </div>
+
+    </section>
   </footer>
 </body>
 </html>
