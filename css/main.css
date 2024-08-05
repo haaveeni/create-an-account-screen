@@ -1,28 +1,29 @@
 * {
   font-family: "Poppins", sans-serif;
   background-color: white;
+  font-size: 10px;
 }
 
 header {
-  margin: 16px 40px 16px 0;
+  margin: 1.6rem 4rem 1.6rem 0;
 }
 
 .log-in-button {
   font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
+  font-size: 1.6rem;
+  line-height: 2.4rem;
 }
 
 main {
   display: flex;
   justify-content: center;
   align-items: flex-start;
-  gap: 64px;
-  margin: 48px 147px 0 147px;
+  gap: 6.6rem;
+  margin: 4.8rem 14.7rem 0 14.7rem;
 }
 
 .logo {
-  margin-top: 150px;
+  margin-top: 15rem;
 }
 
 .container {
@@ -31,15 +32,15 @@ main {
 }
 
 .log-in-button {
-  width: 98px;
-  height: 40px;
-  border-radius: 8px;
-  border: solid 1px black;
+  width: 9.8rem;
+  height: 4rem;
+  border-radius: 0.8rem;
+  border: solid 0.1rem black;
 }
 
 .create-an-account {
-  width: 534px;
-  margin-bottom: 40px;
+  width: 53.4rem;
+  margin-bottom: 4rem;
 }
 
 .create-an-account a {
@@ -54,25 +55,25 @@ main {
 
 h1 {
   font-weight: 500;
-  font-size: 32px;
-  line-height: 48px;
+  font-size: 3.2rem;
+  line-height: 4.8rem;
 }
 
 label {
   display: block;
   color: #666666;
-  margin-top: 24px;
+  margin-top: 2.4rem;
 
   font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
+  font-size: 1.6rem;
+  line-height: 2.4rem;
 }
 
 .input-field {
-  border: solid 1px #66666659;
-  border-radius: 12px;
-  width: 534px;
-  height: 56px;
+  border: solid 0.1rem #66666659;
+  border-radius: 1.2rem;
+  width: 53.4rem;
+  height: 5.6rem;
 }
 
 .checkbox-container {
@@ -86,7 +87,7 @@ label {
 
 .checkbox-container label {
   order: 2;
-  margin-left: 8px;
+  margin-left: 0.8rem;
 }
 
 span {
@@ -94,19 +95,19 @@ span {
 }
 
 .create-account-button {
-  width: 534px;
-  height: 64px;
-  padding: 15px;
-  border-radius: 40px;
+  width: 53.4rem;
+  height: 6.4rem;
+  padding: 1.5rem;
+  border-radius: 4rem;
   opacity: 25%;
   background-color: #111111;
   color: white;
-  margin-top: 24px;
-  margin-bottom: 24px;
+  margin-top: 2.4rem;
+  margin-bottom: 2.4rem;
 
-  font-size: 22px;
+  font-size: 2.2rem;
   font-weight: 500;
-  line-height: 33px;
+  line-height: 3.3rem;
   text-align: center;
 }
 
@@ -116,25 +117,24 @@ span {
 }
 
 .continue-with-google-button {
-  width: 534px;
-  height: 64px;
-  padding: 15px;
-  border-radius: 40px;
+  width: 53.4rem;
+  height: 6.4rem;
+  padding: 1.5rem;
+  border-radius: 4rem;
   background-color: white;
   color: #333333;
-  margin-top: 24px;
-  margin-bottom: 24px;
+  margin-top: 2.4rem 0 2.4rem 0;
   
-  font-size: 22px;
+  font-size: 2.2rem;
   font-weight: 500;
-  line-height: 33px;
+  line-height: 3.3rem;
   text-align: center;
   
   align-items: center;
 }
 footer {
   margin: auto;
-  width: 1200px;
+  width: 120rem;
 }
 
 .footer-links {
@@ -144,9 +144,9 @@ footer {
 
 footer h2 {
   color: #333333;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
+  font-weight: 40rem;
+  font-size: 1.6rem;
+  line-height: 2.4rem;
 }
 
 footer ul {
@@ -157,9 +157,9 @@ footer ul {
 footer ul li {
   list-style-type: none;
   font-weight: 400;
-  font-size: 14px;
-  line-height: 21px;
-  margin-bottom: 8px;
+  font-size: 1.4rem;
+  line-height: 2.1rem;
+  margin-bottom: 0.8rem;
 }
 
 footer ul li a {
@@ -176,14 +176,14 @@ footer ul li a {
 }
 .footer-bottom-links ul {
   display: flex;
-  gap: 24px;
+  gap: 2.4rem;
 }
 
 .social-media-links ul{
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
-  gap: 16px;
+  gap: 1.6rem;
 }
 select {
   border: none;
