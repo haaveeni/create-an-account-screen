@@ -85,7 +85,7 @@ Agradeço a <a href="https://x.com/abbpandalyn">Yan Liu</a>, por ter disponibili
 ## 👩🏻 Autora
 
 <a href="https://www.linkedin.com/in/veridiana-lucena/">
- <img src="https://media.licdn.com/dms/image/D4D03AQE7TU2xzZdMtQ/profile-displayphoto-shrink_200_200/0/1715875083059?e=1727308800&v=beta&t=IMNulLJ8nfCxPci-BR6WRLSwNtphIVhohpEqlGyt9QI" width="100px;" alt=""/>
+ <img src="https://media.licdn.com/dms/image/v2/D4D03AQGf7xJB5fv4Tw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1722438212049?e=1728518400&v=beta&t=GR9oyJ4WrT-ILdcEotrKCgEvzJ4Q8fu0dwOP4uDCW1s" width="100px;" alt=""/>
  <br />
  <b>Veridiana Lucena de Marchi</b></a>
  <br />
