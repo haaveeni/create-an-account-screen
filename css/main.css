@@ -1,0 +1,190 @@
+* {
+  font-family: "Poppins", sans-serif;
+  background-color: white;
+}
+
+header {
+  margin: 16px 40px 16px 0;
+}
+
+.log-in-button {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 64px;
+  margin: 48px 147px 0 147px;
+}
+
+.logo {
+  margin-top: 150px;
+}
+
+.container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.log-in-button {
+  width: 98px;
+  height: 40px;
+  border-radius: 8px;
+  border: solid 1px black;
+}
+
+.create-an-account {
+  width: 534px;
+  margin-bottom: 40px;
+}
+
+.create-an-account a {
+  color: #111111;
+}
+
+.options {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+h1 {
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 48px;
+}
+
+label {
+  display: block;
+  color: #666666;
+  margin-top: 24px;
+
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.input-field {
+  border: solid 1px #66666659;
+  border-radius: 12px;
+  width: 534px;
+  height: 56px;
+}
+
+.checkbox-container {
+  display: flex;
+  align-items: center;
+}
+
+.checkbox-container input {
+  order: 1;
+}
+
+.checkbox-container label {
+  order: 2;
+  margin-left: 8px;
+}
+
+span {
+  color: #333333;
+}
+
+.create-account-button {
+  width: 534px;
+  height: 64px;
+  padding: 15px;
+  border-radius: 40px;
+  opacity: 25%;
+  background-color: #111111;
+  color: white;
+  margin-top: 24px;
+  margin-bottom: 24px;
+
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 33px;
+  text-align: center;
+}
+
+
+.create-account-button:hover, .continue-with-google-button:hover {
+  cursor: pointer;
+}
+
+.continue-with-google-button {
+  width: 534px;
+  height: 64px;
+  padding: 15px;
+  border-radius: 40px;
+  background-color: white;
+  color: #333333;
+  margin-top: 24px;
+  margin-bottom: 24px;
+  
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 33px;
+  text-align: center;
+  
+  align-items: center;
+}
+footer {
+  margin: auto;
+  width: 1200px;
+}
+
+.footer-links {
+  display: flex;
+  justify-content: space-between;
+}
+
+footer h2 {
+  color: #333333;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+footer ul {
+  padding: 0;
+  margin: 0;
+}
+
+footer ul li {
+  list-style-type: none;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  margin-bottom: 8px;
+}
+
+footer ul li a {
+  text-decoration: none;
+  color: #666666;
+}
+
+.footer-bottom{
+  display: flex;
+  justify-content: space-between;
+}
+.footer-bottom-links {
+  display: flex;
+}
+.footer-bottom-links ul {
+  display: flex;
+  gap: 24px;
+}
+
+.social-media-links ul{
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 16px;
+}
+select {
+  border: none;
+}
