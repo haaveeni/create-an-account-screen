@@ -23,7 +23,7 @@
 Para treinar minhas habilidades em HTML, CSS e JS, selecionei esse template da <a href="https://x.com/abbpandalyn">Yan Liu</a> de tela de criação de conta de plataforma, traduzindo do inglês para o português brasileiro. 
 
 ### Conceitos abordados: 
-Estrutura HTML, estilização CSS, FlexBox, importação de fontes, FIGMA, deploy, documentação.
+Estrutura HTML, estilização CSS, FlexBox, importação de fontes, FIGMA, deploy, documentação, medidas relativas, responsividade.
 
 ⏲️ Duração: 8h
 
@@ -41,6 +41,18 @@ Tela original:
 ### Web
 Tela do projeto finalizado:<br/>
 <img width="670" alt="image" src="https://github.com/user-attachments/assets/f3b1c3ed-03c9-444b-bf9e-19572b9acb22">
+
+## Responsividade
+Design responsível é quando a aplicação renderiza bem em diferentes dispositivos e tamanhos de telas, garantindo assim uma maior usabilidade e uma experiência consistente e agradável para o usuário, aumentando satisfação e engajamento.
+O projeto original no Figma não tem sua versão mobile, mas tomei a liberdade de adaptar a tela usando media query, flexbox e medidas relativas para um melhor resultado.
+
+Visualização da tela em diferentes tamanhos antes de adicionar responsividade:<br/>
+
+https://github.com/user-attachments/assets/880dbecc-75b0-4b72-beb4-0594208453e3
+
+Visualização da tela em diferentes tamanhos depois de adicionar responsividade:
+
+https://github.com/user-attachments/assets/e52fffc2-99f0-45f8-8c18-d724eb34faf1
 
 ---
 
