@@ -16,9 +16,10 @@ header {
 
 main {
   display: flex;
+  max-width: 120rem;
   justify-content: center;
   align-items: flex-start;
-  gap: 6.6rem;
+  justify-content: space-between;
   margin: 4.8rem 14.7rem 0 14.7rem;
 }
 
@@ -39,7 +40,7 @@ main {
 }
 
 .create-an-account {
-  width: 53.4rem;
+  max-width: 53.4rem;
   margin-bottom: 4rem;
 }
 
@@ -48,6 +49,20 @@ main {
   font-weight: 400;
   font-size: 1.6rem;
   line-height: 2.4rem;
+}
+
+@media (max-width: 1100px) {
+  main {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+@media (max-width: 1210px){
+  .download-buttons {
+    display: flex;
+    flex-direction: column;
+  }
 }
 
 .options {
@@ -148,7 +163,7 @@ span {
 }
 footer {
   margin: auto;
-  width: 120rem;
+  max-width: 120rem;
 }
 
 .footer-links {
