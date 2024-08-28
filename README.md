@@ -59,7 +59,7 @@ https://github.com/user-attachments/assets/e52fffc2-99f0-45f8-8c18-d724eb34faf1
 ## 🛣️ Como executar o projeto
 
 ### Acesse
-<a href="https://tela-de-criacao-de-usuario.netlify.app/">Tela de criação de usuário</a>
+<a href="https://haaveeni.github.io/create-an-account-screen/">Tela de criação de usuário</a>
 
 #### 🧭 Rodando a aplicação web (Frontend)
 
