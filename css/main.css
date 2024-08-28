@@ -5,7 +5,8 @@
 }
 
 header {
-  margin: 1.6rem 4rem 1.6rem 0;
+  margin: auto;
+  max-width: 1200px;
 }
 
 .log-in-button {
@@ -17,11 +18,14 @@ header {
 main {
   display: flex;
   max-width: 120rem;
-  justify-content: center;
-  align-items: flex-start;
+  align-items: center;
   justify-content: space-between;
-  margin: 4.8rem 14.7rem 0 14.7rem;
-  gap: 4rem;
+  gap: 2rem;
+  margin: auto;
+}
+.img-logo {
+  display: flex;
+  align-items: center;
 }
 
 img {
@@ -68,6 +72,13 @@ img {
   .download-buttons {
     display: flex;
     flex-direction: column;
+  }
+}
+
+@media (min-width: 1500px){
+  main {
+    margin: auto;
+    max-width: 120rem;
   }
 }
 
