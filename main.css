@@ -23,6 +23,7 @@ main {
   gap: 2rem;
   margin: auto;
 }
+
 .img-logo {
   display: flex;
   align-items: center;
@@ -68,14 +69,14 @@ img {
   }
 }
 
-@media (max-width: 1210px){
+@media (max-width: 1210px) {
   .download-buttons {
     display: flex;
     flex-direction: column;
   }
 }
 
-@media (min-width: 1500px){
+@media (min-width: 1500px) {
   main {
     margin: auto;
     max-width: 120rem;
@@ -158,7 +159,9 @@ span {
 }
 
 
-.create-account-button:hover, .continue-with-google-button:hover {
+button,
+.create-account-button:hover,
+.continue-with-google-button:hover {
   cursor: pointer;
 }
 
@@ -170,14 +173,15 @@ span {
   background-color: white;
   color: #333333;
   margin-top: 2.4rem 0 2.4rem 0;
-  
+
   font-size: 2.2rem;
   font-weight: 500;
   line-height: 3.3rem;
   text-align: center;
-  
+
   align-items: center;
 }
+
 footer {
   margin: auto;
   max-width: 120rem;
@@ -213,24 +217,27 @@ footer ul li a {
   color: #666666;
 }
 
-.footer-bottom{
+.footer-bottom {
   display: flex;
   justify-content: space-between;
 }
+
 .footer-bottom-links {
   display: flex;
 }
+
 .footer-bottom-links ul {
   display: flex;
   gap: 2.4rem;
 }
 
-.social-media-links ul{
+.social-media-links ul {
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
   gap: 1.6rem;
 }
+
 select {
   border: none;
 }
